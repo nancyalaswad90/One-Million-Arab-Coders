@@ -1,11 +1,24 @@
 
 
-# Data-Analysis-Track
+# Data-Analysis-Track  Certifications and Structures 
+
+
+## First Certifications
+
+![image](https://user-images.githubusercontent.com/36210723/65848891-b7ad7d80-e350-11e9-8ccc-f1c18d8eaaa6.png)
+
+
+## Second Certifications
+
+![image](https://user-images.githubusercontent.com/36210723/65848875-ad8b7f00-e350-11e9-88d8-969ef68da83b.png)
+
 
 
 # Query a Digital Music Store (Part I)
 
 ## Introduction
+
+
 In this lab, you will query the Chinook Database. The Chinook Database holds information about a music store. For this lab, you will be answering 4 queries to help the Chinook team understand the media in their store, their customers and employees, and their invoice information. To assist you in the queries ahead, the schema for the Chinook Database is provided below. You can see the columns that link tables together via the arrows.
 
 https://s3.amazonaws.com/video.udacity-data.com/topher/2019/February/5c6164bf_chinook/chinook.png
