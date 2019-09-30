@@ -183,3 +183,4 @@ FROM t1
 JOIN t2
   ON t1.country = t2.country
 WHERE t1.TotalSpent =  t2.max_spent 
+
